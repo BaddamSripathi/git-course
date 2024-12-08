@@ -1,2 +1,4 @@
 hello world !!!
 i have to learn springboot,react
+git diff //gets differencees in two versions(unstaged stage)
+git diff --staged //differences in staged
