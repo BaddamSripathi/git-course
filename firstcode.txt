@@ -2,3 +2,8 @@ hello world !!!
 i have to learn springboot,react
 git diff //gets differencees in two versions(unstaged stage)
 git diff --staged //differences in staged
+git rm --cached <file_name> //removing file from git
+//working directory,stagging,adding to git,remote reporisitory
+git clone ssh key/https key //getting project from remote reporisitory
+ssh-keygen -o 
+cat <file_name>//gives content of that file
