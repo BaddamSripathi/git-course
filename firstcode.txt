@@ -11,4 +11,7 @@ git remote add origin <sshkey>
 git push -u orgin main
 git tag //gives all tags
 git tag -a v1.0 -m "1st release"//tagging two types annotated tagging,lightweight tagging
+git switch -c <branch_name>
+git branch -d <branch_name>
+
 
