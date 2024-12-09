@@ -7,3 +7,8 @@ git rm --cached <file_name> //removing file from git
 git clone ssh key/https key //getting project from remote reporisitory
 ssh-keygen -o 
 cat <file_name>//gives content of that file
+git remote add origin <sshkey>
+git push -u orgin main
+git tag //gives all tags
+git tag -a v1.0 -m "1st release"//tagging two types annotated tagging,lightweight tagging
+
